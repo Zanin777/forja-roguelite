@@ -2,7 +2,7 @@
 
 A fast-paced survival arcade roguelite running directly in your browser. The slag is coming for you, and your only defense is to shoot molten steel while managing your furnace's heat level. 
 
-Play it now: **[Insert your GitHub Pages link here]**
+
 
 ## 🎮 How to Play
 Survive as long as possible, gather XP to unlock upgrades, and build a screen-clearing arsenal. The pace is frantic, and your thermal management dictates your combat capabilities.
@@ -23,9 +23,4 @@ This project was built with a focus on optimization and pure system logic, packe
 *   **Procedural Audio:** All sound effects (shots, explosions, level up) are synthesized in real-time using the Web Audio API (Oscillators, BiquadFilters, and Gains) — no external MP3/WAV files.
 *   **Smooth Game Loop:** Based on `requestAnimationFrame` with delta time (`dt`) calculations for consistent movement regardless of monitor refresh rates.
 
-## 🛠️ Getting Started
-Since this is a pure client-side game, there are no builds, npm dependencies, or complex servers required.
 
-1. Clone the repository:
-   `git clone https://github.com/YOUR_USER/REPO_NAME.git`
-2. Open `index.html` in any modern web browser.
